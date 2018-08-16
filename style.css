@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.content {
+    margin: 0 auto;
+    /*    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;*/
+
+}
+
+.buttons{
+    margin: 0 auto;
+    margin-top: auto;
+}
